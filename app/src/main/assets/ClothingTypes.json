@@ -1,0 +1,14 @@
+{
+  "types": [
+    "Shirt",
+    "T-Shirt",
+    "Jeans",
+    "Shorts",
+    "Dress",
+    "Skirt",
+    "Jacket",
+    "Hoodie",
+    "Sweater",
+    "Blazer"
+  ]
+}
